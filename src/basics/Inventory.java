@@ -6,6 +6,7 @@ import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 
 //adding line for repo test
+//adding line from github.com
 public class Inventory {
 	//GLOBAL V
     private ArrayList<Item> items = new ArrayList<Item>();
